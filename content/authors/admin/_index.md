@@ -22,7 +22,7 @@ bio: My research interests include malaria modelling, statistical analysis and R
 
 interests:
 - Statistical Analysis
-- Programming (Python, R, Mysql)
+- Programming (Python, R)
 - Malaria
 - Infectious Disease
 
