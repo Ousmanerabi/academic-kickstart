@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Spatial Analysis, Statistics, Programming (R, Python)
+- Statistical Analysis
+- Programming (Python, R, Mysql)
 - Malaria
 - Infectious Disease
 
@@ -70,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ousmane DIALLO is a physician by training, PhD in Infectious Diseases currently Postdoc at Northwestern University. My work focuses on the use of mathematical modeling for malaria elimination. I use programming tools (R, Python), spatial analysis.
